@@ -1,0 +1,10 @@
+semi: true
+endOfLine: 'lf'
+jsxSingleQuote: true
+trailingComma: 'all'
+singleQuote: true
+useTabs: false
+tabWidth: 2
+bracketSpacing: true
+printWidth: 160
+proseWrap: 'always'

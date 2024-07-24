@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditorlabuladong">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/src/common/algorithm/leetcode/leetcode/editor/cn/[2298]Tasks Count in the Weekend.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/common/algorithm/leetcode/leetcode/editor/cn/doc/content/[2298]Tasks Count in the Weekend.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2298" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/common/algorithm/leetcode/leetcode/editor/cn/[2298]Tasks Count in the Weekend.java" />
+              <option name="titleSlug" value="tasks-count-in-the-weekend" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
